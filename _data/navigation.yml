@@ -3,7 +3,7 @@ main:
   - title: "DevOps"
     url: /devops.html
   - title: "About"
-    url: /about
+    url: /about.html
   - title: "Blog"
     url: /blog        
   - title: "Submenu"
