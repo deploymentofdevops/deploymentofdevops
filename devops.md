@@ -6,7 +6,7 @@ Nice and simple according to [Wikipedia](https://en.wikipedia.org/wiki/DevOps).
 
 So why does it always cause so much comment around what it is?
 
-Purists commenting that it is the combining of people with different skills sets into a single team working together. Other reporting that they are now called DevOps yet they are still doing the same role as they were as systems administrators and so many different variants in between.
+Purists commenting that it is the combining of people with different skills sets into a single team working together. Others reporting that they are now called DevOps yet they are still doing the same role as they were as systems administrators and so many different variants in between.
 
 ## So who is right?
 
@@ -14,7 +14,7 @@ _Everyone_, almost. Apart from those that have had their job title renamed, yet 
 
 The key things to look out for, to make sure you are heading in the right direction
 
-- There is a growing collabortion and communication between any development and operations teams
+- There is a growing collaboration and communication between any development and operations teams
 
 - There is a greater use of tooling
 
@@ -28,7 +28,7 @@ Some or even one of these things is a good pointer to you, nad the business, mak
 
 ## So what _is_ DevOps then?
 
-Yep all that above sounds a bit vauge so lets put some firmer thoughts around what DevOps actually is. A qucik google search shows so many different definitions from many a trusted company but if you look at them all there are some key things that stand out across them
+Yep all that above sounds a bit vauge so lets put some firmer thoughts around what DevOps actually is. A quick google search shows so many different definitions from many a trusted company but if you look at them all there are some key things that stand out across them
 
 - Culture and culture change
 
@@ -40,7 +40,7 @@ Yep all that above sounds a bit vauge so lets put some firmer thoughts around wh
 
 - Faster
 
-That list is also not in a random order. There is a tool for nearly every aspect of the infrastructure and software development lifecycle, no matter how unique most businesses thing they are. If there really isnt, then its not likely to be too dificult to put something together. Tech is always the easy part, is humans that are the difficult componenet in any process and when change is involved, its likely to be even more problematic. Buy in at all levels of the business is required and starting small, to demonstrate the benefits of making the change, will likely mean that that change will be a sucess and it will show others what can be done and the benefits it might bring.
+That list is also not in a random order. There is a tool for nearly every aspect of the infrastructure and software development lifecycle, no matter how unique most businesses thing they are. If there really isnt, then its not likely to be too dificult to put something together. Tech is always the easy part, is humans that are the difficult component in any process and when change is involved, its likely to be even more problematic. Buy in at all levels of the business is required and starting small, to demonstrate the benefits of making the change, will likely mean that that change will be a sucess and it will show others what can be done and the benefits it might bring.
 
 ## How do we do DevOps
 
