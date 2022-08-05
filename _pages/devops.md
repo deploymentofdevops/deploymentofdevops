@@ -11,7 +11,7 @@ Nice and simple according to [Wikipedia](https://en.wikipedia.org/wiki/DevOps).
 
 So why does it always cause so much comment around what it is?
 
-Purists commenting that it is the combining of people with different skills sets into a single team working together. Others reporting that they are now called DevOps yet they are still doing the same role as they were as systems administrators and so many different variants in between.
+Purists commenting that it is the combining of people with different skill sets into a single team working together. Others reporting that they are now called DevOps yet they are still doing the same role as they were as systems administrators and so many different variants in between.
 
 ## So who is right?
 
@@ -33,7 +33,7 @@ Some or even one of these things is a good pointer to you, nad the business, mak
 
 ## So what _is_ DevOps then?
 
-Yep all that above sounds a bit vauge so lets put some firmer thoughts around what DevOps actually is. A quick google search shows so many different definitions from many a trusted company but if you look at them all there are some key things that stand out across them
+Yep all that above sounds a bit vague so lets put some firmer thoughts around what DevOps actually is. A quick google search shows so many different definitions from many a trusted company but if you look at them all there are some key things that stand out across them
 
 - Culture and culture change
 
@@ -45,10 +45,10 @@ Yep all that above sounds a bit vauge so lets put some firmer thoughts around wh
 
 - Faster
 
-That list is also not in a random order. There is a tool for nearly every aspect of the infrastructure and software development lifecycle, no matter how unique most businesses thing they are. If there really isnt, then its not likely to be too dificult to put something together. Tech is always the easy part, is humans that are the difficult component in any process and when change is involved, its likely to be even more problematic. Buy in at all levels of the business is required and starting small, to demonstrate the benefits of making the change, will likely mean that that change will be a sucess and it will show others what can be done and the benefits it might bring.
+That list is also not in a random order. There is a tool for nearly every aspect of the infrastructure and software development lifecycle, no matter how unique most businesses thing they are. If there really isn't, then its not likely to be too difficult to put something together. Tech is always the easy part, is humans that are the difficult component in any process and when change is involved, its likely to be even more problematic. Buy in at all levels of the business is required and starting small, to demonstrate the benefits of making the change, will likely mean that that change will be a success and it will show others what can be done and the benefits it might bring.
 
 ## How do we do DevOps
 
-Communicate. As mentioned above, getting buy in from all levels of the business is essential but that doesnt mean that you have to start with everyone day one. If the organisation is large but your team feels it could better benefit from closer relations across development and infrastructure, start talking to people. Pick a small part of your work, one that caususe a few niggles and work on building some tooling and processes, that overlap areas. Bring value to the organisation by improveing things, making things easer for the team, start talking with other to show what you have done.
+Communicate. As mentioned above, getting buy in from all levels of the business is essential but that doesn't mean that you have to start with everyone day one. If the organisation is large but your team feels it could better benefit from closer relations across development and infrastructure, start talking to people. Pick a small part of your work, one that causes a few niggles and work on building some tooling and processes, that overlap areas. Bring value to the organisation by improving things, making things easer for the team, start talking with other to show what you have done.
 
 One final thing to remember, its a long journey, things will go wrong, things will likely need to change even thought you have already changed them. 
