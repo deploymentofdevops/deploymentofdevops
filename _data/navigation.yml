@@ -6,10 +6,10 @@ main:
     url: /about.html
   - title: "Blog"
     url: /blog        
-  - title: "Submenu"
+  - title: "Tools"
     url: /
     children: 
-      - title: "Sitemap"
-        url: /sitemap.xml
-      - title: "RSS"
-        url: /feed.xml   
+      - title: "CI/CD"
+        url: /cicd
+      - title: "Cloud Providers"
+        url: /cloud  
