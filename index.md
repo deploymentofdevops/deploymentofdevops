@@ -19,6 +19,8 @@ Aye, we love us some TLAs in this industry. A list to try and help people unders
 
 ## News
 
+- [Wireless electronic "skin"](https://news.mit.edu/2022/sensor-electronic-chipless-0818)
+- [Google Quantum, not so Quantum?](https://singularityhub.com/2022/08/12/scientists-just-debunked-googles-quantum-advantage-claim-using-a-normal-supercomputer/)
 - [Too much choice causing issues?](https://www.computerworld.com/article/3668795/is-it-bad-to-give-employees-too-many-tech-options.html)
 - [Amazon buys iRobot!](https://media.irobot.com/2022-08-05-Amazon-and-iRobot-sign-an-agreement-for-Amazon-to-acquire-iRobot)
 
